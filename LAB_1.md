@@ -1,4 +1,4 @@
-# LAB | Hello React
+# LAB 1 | Hello React
 
   <summary>
    <h2>Learning Goals</h2>
@@ -142,7 +142,7 @@ Finally, let's create our landing page. Using the assets that you downloaded in 
 
   <hr>
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_2c5c24ee05aa5fa68a76eee564ad44ee.png)
+![](./images/lab1_web1.jpeg)
 
 </details>
 
