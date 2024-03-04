@@ -37,7 +37,7 @@ In this exercise, we will practice creating a simple landing page (hopefully wit
   git push origin master
   ```
 
-- Create a Pull Request so that your TAs can check your work.
+- Optional: create a Pull Request with your work.
 
 ## Instructions
 
