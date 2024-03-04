@@ -5,6 +5,7 @@
    <h2>Learning Goals</h2>
   </summary>
 
+  <br>
   Upon completion of this exercise, you will be able to:
 
   - Set up a new React app and run it in development mode.
