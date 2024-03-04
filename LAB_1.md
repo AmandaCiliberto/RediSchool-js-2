@@ -1,7 +1,5 @@
 # LAB | Hello React
 
-<details>
-
   <summary>
    <h2>Learning Goals</h2>
   </summary>
@@ -17,8 +15,6 @@
 
   <br>
   <hr> 
-
-</details>
 
 ## Introduction
 
